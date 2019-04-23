@@ -1,0 +1,3 @@
+	public enum VeggieTopping {
+		NULL, GREEN_PEPPERS, ONIONS, MUSHROOMS, PINEAPPLE, SPINACH
+	}
